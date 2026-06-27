@@ -70,4 +70,12 @@
     local groups
     .net localgroups -> list of local groups
     . net localgroup Users cat /add -> crate user t ocontrol group 
-    . 
+    . tasklist -> see tasks
+    
+7. MSI & exe
+8. bios(hardware) -> bootloder -> windows kernel -> system services -> drive roots & all -> user login -> password
+
+9. bios & ufei (all new laptops)
+
+. bcdedit -> all boot loader info
+.ntoskrnl.exe
